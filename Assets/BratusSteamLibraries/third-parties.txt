@@ -1,0 +1,15 @@
+Third party libraries/sdk:
+
+all the files contained on the folders:
+
+Assets\Editor\Steamworks.NET
+
+\Assets\Plugins\steam_api.bundle
+
+\Assets\Plugins\Steamworks.NET
+
+\Assets\Plugins\x86_64
+
+\Assets\Plugins\x86
+
+\Assets\Scripts\Steamworks.NET
